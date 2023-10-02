@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @louisPlaire a french student actually in year-12 and I am passionate about Computer Science, Programming, English and a lot more!
+- 👋 Hi, I’m @louisPlaire a french student actually in year-13 and I am passionated about Computer Science, Programming, English and a lot more !
  
 - 👀 I’m interested in Computer graphics, high and low level programming languages, web development and Games!
  
