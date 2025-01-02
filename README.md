@@ -1,13 +1,10 @@
-- 👋 Hi, I’m @louisPlaire a french student actually in year-13 and I am passionated about Computer Science, Programming, English and a lot more !
+- 👋 Hi, I’m @louisPlaire a french student currently in SUP (year one) at EPITA !
  
 - 👀 I’m interested in Computer graphics, high and low level programming languages, web development and Games!
  
-- 🌱 I’m currently learning lots of programming languages like c# (my favourite and the one I know the most), c++, python, javascript. 
-  And frameworks like blazor or rails.
- 
-- 💞️ I’m looking to collaborate on every projects I can work on I am motivated and want to learn a lot!
+- 🌱 I’m currently working on a school project, Enclave. A 2D multiplayer game made in unity.
 
-- 📫 How to reach me => mail : louis.plaire.owo@gmail.com
+- 📫 How to reach me => mail : louisplaire14@gmail.com
 
 <!---
 louisPlaire/louisPlaire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
